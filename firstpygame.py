@@ -20,7 +20,7 @@ clock = pygame.time.Clock()
 running = True
 
 pygame.display.set_caption("First Pygame")
-pygame.display.set_icon(pygame.image.load("./assets/firstPygame/icon.png"))
+pygame.display.set_icon(pygame.image.load("assets/pngs/icon.png"))
 
 # Colors
 BLACK = (0, 0, 0)
