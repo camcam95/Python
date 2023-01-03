@@ -2,7 +2,7 @@
 Finished 01/02/23
 
 Author: phylyp
-Remake: captainhawaii
+Remake: camcam95
 
 Guess The Number
 """

@@ -2,7 +2,7 @@
 Started 01/02/2023
 
 Author: phylyp
-Remake: captainhawaii
+Remake: camcam95
 
 GameLoop
     +init()
